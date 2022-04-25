@@ -2,7 +2,7 @@
 <br>
 <h2>Sunt un copil de 12 ani si, pentru ca nu am ce face cu viata mea, m-am gandit sa invat sa programez👨‍💻! Am creat si un site, suntunaiurit.org, care nu are nimic ca scop(la fel ca viata mea xdd)! Stiu putin html, css si javascript si putin mai mult C++(preferatul meu), C#(numai libraria aia pentru unity), Java(numai JFrame)! As mai vrea sa invat si C si node.js(vreau sa invat react si electron)!</h2>
 <h1>✨Ce mai mari proiecte ale mele✨</h1>
-<h2>Momentan aceste proiecte nu sunt pe github, pentru ca nu le-am terminat sau pentru ca nu le-am pus inca! O sa sterg acest mesaj cand toate proiectele sunt puse pe github!</h2>
+<h2>⚠️Momentan aceste proiecte nu sunt pe github, pentru ca nu le-am terminat sau pentru ca nu le-am pus inca! O sa sterg acest mesaj cand toate proiectele sunt puse pe github!⚠️</h2>
 <h2>SuntUnAiurit.org</h2>
 <h3>Pe scurt este repository-ul unde am site-ul local(nu tot site-ul, adica ce am din site pe calculator, pentru ca unele lucruri le mai modific direct pe site, dar se pot vedea apasand ctrl+u, pentru a vedea sursa!)</h3>
 <h2>Mr hugs</h2>
