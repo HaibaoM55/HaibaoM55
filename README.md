@@ -8,3 +8,4 @@
 <h3>SuntUnAiurit este un site non-profit de scris notite, facut in next.js!</h3>
 <h2>HaibaoMBOT</h2>
 <h3>HaibaoMBOT este un robot de discord scris in python, care are un sistem de economie, un sistem de leveling si cateva comenzi utile!</h3>
+<img src="https://streak-stats.demolab.com?user=HaibaoM55" alt="GitHub Streak" />
