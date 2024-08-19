@@ -9,4 +9,4 @@
 <h2>HaibaoMBOT</h2>
 <h3>HaibaoMBOT este un robot de discord scris in python, care are un sistem de economie, un sistem de leveling si cateva comenzi utile!</h3>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=HaibaoM55)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaibaoM55)]
