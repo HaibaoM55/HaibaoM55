@@ -4,8 +4,8 @@
 <h3>Stiu Javascript, Python si C++.</h3>
 <h3>Momentan invat Typescript.</h3>
 <h1>✨Cele mai mari proiecte ale mele✨</h1>
-<h2>SuntUnAiurit.org</h2>
-<h3>SuntUnAiurit este un site non-profit de scris notite, facut in next.js!</h3>
+<h2><a href = "https://suntunaiurit.org">SuntUnAiurit.org</a></h2>
+<h3>SuntUnAiurit este un site portofoliu facut de mine, unde am proiectele si joculetele mele!</h3>
 <h2>HaibaoMBOT</h2>
 <h3>HaibaoMBOT este un robot de discord scris in python, care are un sistem de economie, un sistem de leveling si cateva comenzi utile!</h3>
 <img src="https://streak-stats.demolab.com?user=HaibaoM55" alt="GitHub Streak" />
