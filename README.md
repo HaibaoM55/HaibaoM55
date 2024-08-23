@@ -8,4 +8,6 @@
 <h3>SuntUnAiurit este un site portofoliu facut de mine, unde am proiectele si joculetele mele!</h3>
 <h2>HaibaoMBOT</h2>
 <h3>HaibaoMBOT este un robot de discord scris in python, care are un sistem de economie, un sistem de leveling si cateva comenzi utile!</h3>
+<h2>Honey</h2>
+<h3>Honey este un platformer scris in Godot4, in care trebuie sa salvezi lumea de la cartoful malefic</h3>
 <img src="https://streak-stats.demolab.com?user=HaibaoM55" alt="GitHub Streak" />
