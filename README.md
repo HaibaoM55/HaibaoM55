@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Folosesc</h2>
+<h2 align="left">Stiu limbajele</h2>
 
 ###
 
